@@ -1,2 +1,2 @@
 Mon premier commit.
-première modif
+https://github.com/crazy-max/csgo-server-launcher //ressource github
